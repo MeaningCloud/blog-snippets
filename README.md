@@ -12,3 +12,9 @@ Snippets of code shared in MeaningCloud's blog
   **Language**: PHP 
 
 
+### I Love Politics (2 posts)
+  
+  **#ILovePolitics: Popularity analysis in the news**: https://www.meaningcloud.com/blog/political-popularity-analysis-in-the-news
+  **#ILovePolitics: Political discourse analysis in social media**: https://www.meaningcloud.com/blog/political-discourse-analysis-in-social-media
+
+  **Language**: PHP
